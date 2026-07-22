@@ -1,0 +1,11 @@
+# 个人信息文件（不提交）
+张冬阳-通用简历-PM-AIPM.md
+张冬阳_简历_*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# 临时文件
+*_v2.pdf
+*_v3.pdf
